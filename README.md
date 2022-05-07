@@ -9,3 +9,5 @@ Integrantes:
 -Marcos Garcia
 -Facundo Del Canto
 -Leandro Correa
+
+Circuito: https://www.tinkercad.com/things/4pvFfOsco5p
